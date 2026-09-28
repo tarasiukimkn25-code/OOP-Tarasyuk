@@ -1,2 +1,1 @@
-<img width="2704" height="1756" alt="Знімок екрана 2026-09-28 о 22 16 55" src="https://github.com/user-attachments/assets/1a0b9b8f-653e-4a50-9b9c-a1b2e7b001af" />
-
+<img width="1352" height="878" alt="Знімок екрана 2026-09-28 о 23 03 57" src="https://github.com/user-attachments/assets/e67aeb37-5fbd-479c-b949-7f841a008559" />
