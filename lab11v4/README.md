@@ -25,4 +25,4 @@
 
 1. Перейдіть у папку проєкту:
    ```bash
-   cd lab11v4
+   cd lab11v4<img width="550" height="466" alt="Знімок екрана 2026-10-31 о 22 15 11" src="https://github.com/user-attachments/assets/5230c8cd-a223-4137-8c83-c68b85878a5a" />
