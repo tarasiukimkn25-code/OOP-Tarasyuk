@@ -26,3 +26,4 @@
 cd lecture11
 dotnet run
 ```
+<img width="767" height="334" alt="Знімок екрана 2026-11-18 о 22 53 29" src="https://github.com/user-attachments/assets/07a97b9d-06f3-4256-b95d-807ae5b0b764" />
