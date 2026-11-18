@@ -38,3 +38,5 @@ dotnet run
 ```
 
 У режимі інтерактивного пошуку введіть слова через пробіл для AND-пошуку або `exit` для завершення.
+<img width="762" height="367" alt="Знімок екрана 2026-11-18 о 22 29 20" src="https://github.com/user-attachments/assets/754e9b03-df3c-470b-b114-1b521fb2a66b" />
+
