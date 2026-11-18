@@ -22,3 +22,4 @@ dotnet test IndependentWork7.Tests/IndependentWork7.Tests.csproj
 ## Контрольні питання
 
 Узагальнений кеш повторно використовує одну реалізацію для різних типів ключа й значення та зберігає перевірку типів компілятором. `Dictionary` забезпечує пошук за ключем, а `Queue` — FIFO-порядок. Якщо відсутній ключ є штатним випадком, замість винятку можна додати `TryGetValue`, який повертає `bool` і значення через `out`.
+<img width="454" height="170" alt="Знімок екрана 2026-11-18 о 22 33 32" src="https://github.com/user-attachments/assets/c4a3ede4-bbe4-4b2a-9274-75e940b7db71" />
