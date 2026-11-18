@@ -42,3 +42,4 @@
 cd IndependentWork8
 dotnet run
 ```
+<img width="450" height="170" alt="Знімок екрана 2026-11-18 о 22 31 09" src="https://github.com/user-attachments/assets/42b433f0-aa0a-4e73-98f5-0b96535ca022" />
