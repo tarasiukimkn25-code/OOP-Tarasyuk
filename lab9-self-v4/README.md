@@ -30,3 +30,4 @@ ForEach: 12 4 19 7 2 15
 cd lab9-self-v4
 dotnet run
 ```
+<img width="514" height="344" alt="Знімок екрана 2026-11-18 о 22 49 17" src="https://github.com/user-attachments/assets/1052e9b1-fe24-4495-bb2a-5898703ef28e" />
