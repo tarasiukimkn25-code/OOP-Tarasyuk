@@ -1,3 +1,4 @@
+<img width="787" height="218" alt="Знімок екрана 2026-11-18 о 22 40 23" src="https://github.com/user-attachments/assets/7f7614a2-0a99-41e4-9e4a-16b05edab2ee" />
 # Самостійна робота №14. Стійкість системи за допомогою Polly
 
 **Тема:** Об'єктно-орієнтоване програмування (C#) | **Виконав:** Тарасюк
@@ -28,3 +29,4 @@
 cd IndependentWork13
 dotnet run
 ```
+<img width="418" height="215" alt="Знімок екрана 2026-11-18 о 22 42 18" src="https://github.com/user-attachments/assets/4a6f13ce-432e-48db-ac7a-60f95bfbaaee" />
